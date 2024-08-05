@@ -1,0 +1,195 @@
+.urut-berdasarkan {
+  width: 187px;
+  height: 38px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.radio-filter8 {
+  cursor: pointer;
+  margin: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.radio-filter-wrapper6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.jabodetabek8 {
+  flex: 1;
+  position: relative;
+}
+.filter-lokasi-inner8,
+.frame-parent15 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent15 {
+  width: 292px;
+  gap: var(--gap-3xs);
+  flex-shrink: 0;
+}
+.filter-lokasi-inner8 {
+  width: 236px;
+  padding: 0 var(--padding-mid);
+  box-sizing: border-box;
+}
+.filter-lokasi-child6 {
+  width: 220px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--foundation-blue-light);
+  box-sizing: border-box;
+}
+.filter-lokasi8 {
+  align-self: stretch;
+  height: 41px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 var(--padding-5xs);
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+}
+.radio-filter9 {
+  cursor: pointer;
+  margin: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.radio-filter-wrapper7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.jabodetabek9 {
+  flex: 1;
+  position: relative;
+}
+.filter-lokasi-inner9,
+.frame-parent16 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent16 {
+  width: 292px;
+  gap: var(--gap-3xs);
+  flex-shrink: 0;
+}
+.filter-lokasi-inner9 {
+  width: 236px;
+  padding: 0 var(--padding-mid);
+  box-sizing: border-box;
+}
+.filter-lokasi-child7 {
+  width: 220px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--foundation-blue-light);
+  box-sizing: border-box;
+}
+.filter-lokasi9 {
+  align-self: stretch;
+  height: 41px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 var(--padding-5xs);
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+}
+.radio-filter10 {
+  cursor: pointer;
+  margin: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.radio-filter-wrapper8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.jabodetabek10 {
+  flex: 1;
+  position: relative;
+}
+.filter-lokasi-inner10,
+.frame-parent17 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent17 {
+  width: 292px;
+  gap: var(--gap-3xs);
+  flex-shrink: 0;
+}
+.filter-lokasi-inner10 {
+  width: 236px;
+  padding: 0 var(--padding-mid);
+  box-sizing: border-box;
+}
+.filter-lokasi-child8 {
+  width: 220px;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--foundation-blue-light);
+  box-sizing: border-box;
+}
+.filter-lokasi10 {
+  align-self: stretch;
+  height: 41px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 var(--padding-5xs);
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+}
+.filter-lokasi-container {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-8xs);
+  z-index: 3;
+  color: var(--black);
+}
+.filter-lokasi-container,
+.frame-wrapper11,
+.urut-berdasarkan-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.urut-berdasarkan-parent {
+  flex: 1;
+  flex-direction: column;
+}
+.frame-wrapper11 {
+  width: 302px;
+  flex-direction: row;
+  padding: 0 var(--padding-9xs) var(--padding-smi);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--body-18-bd-size);
+  color: var(--foundation-blue-normal);
+  font-family: var(--body-18-bd);
+}
